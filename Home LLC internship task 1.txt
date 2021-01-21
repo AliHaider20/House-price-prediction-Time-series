@@ -1,0 +1,12 @@
+Features which will affect United states residential prices for over next 10 years.
+
+1.No. of bedrooms
+2.Location
+3.Neighbourhood group
+4.The local market
+5.Economic Indicators
+6.Interest rates
+7.Income of a person
+8.State of the economy
+
+ 
