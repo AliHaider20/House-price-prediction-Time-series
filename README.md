@@ -1,1 +1,1 @@
-# HomeLLC-T1
+# Predicting House price using Arima model
